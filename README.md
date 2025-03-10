@@ -1,3 +1,3 @@
-# A-Serial-Perspective-on-Photometric-Stereo-of-Filtering-and-Serializing-Spatial-Information
+# A Serial Perspective on Photometric Stereo of Filtering and Serializing Spatial Information
 
 Coming Soon...

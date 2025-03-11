@@ -18,7 +18,7 @@ def cal_mav(img, msk, mode=3, method='mean', threshold=None):
 ```
 Feel free to modify or use it. Please note that if you do not have a mask, you can generate one using the generate_mask() function in ./mav/organize.py. However, be aware of the background pixel values in the normal maps: for PS_Sculpture and PS_Blooby, the background value is (127, 127, 127), while for the DiLiGenT series, it is (0, 0, 0).
 ### DNS dataset
-To organize the DNS dataset, you first need to preprocess the data into the following format. Alternatively, you can directly download the PS_Blooby and PS_Sculpture datasets that we use, as these datasets require no additional preprocessing.
+To organize the DNS dataset, you first need to preprocess the data into the following format. Alternatively, you can directly download the [PS_Blobby and PS_Sculpture](https://github.com/guanyingc/PS-FCN/blob/master/scripts/download_synthetic_datasets.sh) datasets(from [PS-FCN](https://github.com/guanyingc/PS-FCN)) that we use, as these datasets require no additional preprocessing.
 
 ```bash
 PS_Blooby

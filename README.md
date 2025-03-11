@@ -1,4 +1,4 @@
-# Official Code of A Serial Perspective on Photometric Stereo of Filtering and Serializing Spatial Information
+# Official Code of "A Serial Perspective on Photometric Stereo of Filtering and Serializing Spatial Information"
 
 The codebase for both MAV and DNS-S+B has been fully organized and is now stored in the MAV directory. The network's code is coming soon and will not take much time.
 

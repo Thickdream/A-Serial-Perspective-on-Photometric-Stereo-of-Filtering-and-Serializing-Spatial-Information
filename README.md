@@ -1,4 +1,4 @@
-# A Serial Perspective on Photometric Stereo of Filtering and Serializing Spatial Information
+# Official Code of A Serial Perspective on Photometric Stereo of Filtering and Serializing Spatial Information
 
 The codebase for both MAV and DNS-S+B has been fully organized and is now stored in the MAV directory. The network's code is coming soon and will not take much time.
 
@@ -46,4 +46,18 @@ PS_Blooby
 Next, you can run ./mav/organize.py to generate the DNS dataset. Please note that the default generation method creates soft links for all selected datasets in the output directory. You can modify the code to tailor it to your specific requirements.
 ```bash
 python ./mav/organize.py
+```
+
+If you find our work helps, please cite:
+```bibtex
+@ARTICLE{10907979,
+  author={Xu, Minzhe and Ding, Xin and Yang, You and Zheng, Yinqiang and Liu, Qiong},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={A Serial Perspective on Photometric Stereo of Filtering and Serializing Spatial Information}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Feature extraction;Accuracy;Training;Lighting;Surface reconstruction;Measurement;Image reconstruction;Complexity theory;Calibration;Learning systems;3D reconstruction;deep neural networks;photometric stereo;sequence models;surface normal estimate},
+  doi={10.1109/TVCG.2025.3546657}}
 ```

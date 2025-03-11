@@ -4,7 +4,12 @@ import numpy as np
 import time
 import shutil
 from pathlib import Path
+import sys
+sys.path.append('./mav')
 from mav import cal_mav
+
+
+
 
 time = time.time
 

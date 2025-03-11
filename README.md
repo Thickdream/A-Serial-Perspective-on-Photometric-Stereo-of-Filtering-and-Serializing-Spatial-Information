@@ -21,7 +21,7 @@ Feel free to modify or use it. Please note that if you do not have a mask, you c
 To organize the DNS dataset, you first need to preprocess the data into the following format. Alternatively, you can directly download the [PS_Blobby and PS_Sculpture](https://github.com/guanyingc/PS-FCN/blob/master/scripts/download_synthetic_datasets.sh) datasets(from [PS-FCN](https://github.com/guanyingc/PS-FCN)) that we use, as these datasets require no additional preprocessing.
 
 ```bash
-PS_Blooby
+PS_Blobby
 ├── Images
 │   ├── blob10_s-0.90_x-350_y-290
 │   │   ├── blue-metallic-paint2
